@@ -33,7 +33,7 @@
 
 ## 🖥️ Скриншот
 
-![Screenshot]()
+![Screenshot]({9057461E-AB0A-4ED0-8594-FF1985C6739A}.png)
 
 ---
 
